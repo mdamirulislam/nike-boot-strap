@@ -1,0 +1,33 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap'); */
+
+/* * {
+    /* font-family: 'Bebas Neue', cursive; */
+/* } */
+.first-part {
+    background-color: #FFF9F4;
+}
+
+.nike-heading {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.nike-btn {
+    color: white;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    width: 170px;
+    height: 60px;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border: none;
+    border-radius: 10px;
+}
+
+.nike-bg {
+    background-color: lightgray;
+}
+
+.nike-size {
+    height: 80%;
+}
