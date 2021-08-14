@@ -31,3 +31,17 @@
 .nike-size {
     height: 80%;
 }
+
+.ss img {
+    width: 50%;
+}
+
+.detail-logo {
+    width: 80px;
+}
+
+.items-cart img {
+    width: 100%;
+    margin: 10px;
+    padding: 20px;
+}
